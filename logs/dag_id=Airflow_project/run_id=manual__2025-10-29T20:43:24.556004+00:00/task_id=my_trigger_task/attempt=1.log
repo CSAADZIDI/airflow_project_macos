@@ -1,0 +1,4 @@
+{"timestamp":"2025-10-29T20:43:30.934825","level":"info","event":"DAG bundles loaded: dags-folder","logger":"airflow.dag_processing.bundles.manager.DagBundlesManager"}
+{"timestamp":"2025-10-29T20:43:30.935111","level":"info","event":"Filling up the DagBag from /Users/chaimasaad/Projects/airflow_project/dags/main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-29T20:43:31.525389","level":"info","event":"Triggering Dag Run.","trigger_dag_id":"Airflow_project_Flask","logger":"task"}
+{"timestamp":"2025-10-29T20:43:31.534949","level":"info","event":"Dag Run triggered successfully.","trigger_dag_id":"Airflow_project_Flask","logger":"task"}

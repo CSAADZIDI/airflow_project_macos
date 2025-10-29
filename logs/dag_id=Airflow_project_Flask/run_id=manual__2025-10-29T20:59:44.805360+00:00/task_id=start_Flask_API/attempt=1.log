@@ -1,0 +1,7 @@
+{"timestamp":"2025-10-29T20:59:45.270166","level":"info","event":"DAG bundles loaded: dags-folder","logger":"airflow.dag_processing.bundles.manager.DagBundlesManager"}
+{"timestamp":"2025-10-29T20:59:45.270463","level":"info","event":"Filling up the DagBag from /Users/chaimasaad/Projects/airflow_project/dags/Flask_API.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-29T20:59:45.308221Z","level":"info","event":"Starting Flask on 0.0.0.0:5555 ...","chan":"stdout","logger":"task"}
+{"timestamp":"2025-10-29T20:59:45.308375Z","level":"info","event":" * Serving Flask app 'unusual_prefix_a2f1e16c58558d73cd5de82fccec11c232fed26f_Flask_API'","chan":"stdout","logger":"task"}
+{"timestamp":"2025-10-29T20:59:45.308403Z","level":"info","event":" * Debug mode: off","chan":"stdout","logger":"task"}
+{"timestamp":"2025-10-29T20:59:45.324455","level":"info","event":"\u001b[31m\u001b[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.\u001b[0m\n * Running on all addresses (0.0.0.0)\n * Running on http://127.0.0.1:5555\n * Running on http://192.168.1.18:5555","logger":"werkzeug"}
+{"timestamp":"2025-10-29T20:59:45.324500","level":"info","event":"\u001b[33mPress CTRL+C to quit\u001b[0m","logger":"werkzeug"}
